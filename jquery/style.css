@@ -1,0 +1,24 @@
+.show-btn {
+  margin-bottom: 3rem;
+}
+
+.random-div {
+  border: 1px solid black;
+  height: 20rem;
+  width: 20rem;
+  transition: 0.2s ease-in-out;
+}
+
+.message-area {
+  margin-top: 2rem;
+}
+
+.empty-div {
+  margin-top: 2rem;
+  background: red;
+  width: 20rem;
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
